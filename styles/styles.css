@@ -78,6 +78,7 @@ body {
   height: 100%;
   border: 1px solid #cccccc;
   border-radius: 4rem;
+  transform: translateX(-3000px);
 }
 
 .page--product-info {
